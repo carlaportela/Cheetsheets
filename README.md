@@ -3,7 +3,7 @@
 </h1>
 <p align="left">
    <!--Badge de desarrollo-->
-   <img src="https://img.shields.io/badge/status-en%20desarrollo-green">
+   <img src="https://img.shields.io/badge/Status-in%20progress-green">
 <!--Badge de seguidores-->
   <img src="https://img.shields.io/github/followers/carlaportela"/>
 <!--Badge de forks-->
