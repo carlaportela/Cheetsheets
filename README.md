@@ -18,7 +18,7 @@
    <img src="https://avatars.githubusercontent.com/u/120684708?v=4" alt="perfil" height="32px" width="32px"/>
   </a>
 </p>
-<h5 align="right">Licencia</h5>
+<h3 align="right">Licencia</h3>
 <p align="right">
   <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
    <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
